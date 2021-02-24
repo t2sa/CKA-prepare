@@ -9,10 +9,10 @@ This course will recap and also deep dive all the concepts in K8s https://p3.ude
 Though experianced with Kubernetes this course will help brush up. Take advantage of the labs and practise.
 
 #### Other
-[CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - practice these, many similar questions in CKA.
-[Killer.sh](https://killer.sh/) - try practise test. All questions are rated hard so do not get discouraged. The exam will feel a lot easier and at times make you wonder if there is more to the question.
+- [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - practice these, many similar questions in CKA.
+- [Killer.sh](https://killer.sh/) - try practise test. All questions are rated hard so do not get discouraged. The exam will feel a lot easier and at times make us wonder if there is more to the question.
 
-These discount codes were available when I tested. They might not be valid anymore. Google for new codes, you might end up finding some.
+These discount codes were available when I tested. They might not be valid anymore. Google might help find recent discount codes.
 ```
 DEVOPS15 - LinuxAcademy discount code 20%
 walidshaari - killer.sh discount code 20%
@@ -35,7 +35,7 @@ The alias and variable helped save a lot of typing, like the below
 k run nginx --image=nginx $do > nginx.yml
 ```
 
-These VIM settings are useful. Get comfortable with VIM if you are not already. Find similar settings if you use emacs. Did not check if emacs came installed by default.
+These VIM settings are useful. Get comfortable with VIM if not already. Find similar settings if using emacs. Did not check if emacs came installed by default.
 ```
 # .vimrc
 set paste
@@ -56,7 +56,7 @@ set-window-option -g mode-keys vi
 
 Docker Desktop came in handy for 90% of the testing. The rest like kubeadm upgrades, I practised on VMs which can be spun up using Vagrant and Ansible, thanks to this [blog post by Naresh L J](https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/)
 
-If vagrant and ansible are working on your system then clone this repo and run `make up` to bring up the VMs. There is a `make clean` to destroy the VMs.
+Ensure vagrant and ansible are working on the system. Clone this repo and run `make up` to bring up the VMs. There is a `make clean` to destroy the VMs.
 
 Some quick handy commands
 ```
@@ -75,4 +75,4 @@ kubectl get nodes        # kubectl is pre-configured for the vagrant user
     node-2       Ready    <none>   33d   v1.19.7
 ```
 
-Wish you all the best!
+All the best!
