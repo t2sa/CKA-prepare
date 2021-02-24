@@ -11,3 +11,4 @@ up: ## Only spin up the VMs
 
 clean: ## Cleanup VMs and reset to start fresh
 	@vagrant destroy -f
+	@rm kubernetes-setup/join-command
