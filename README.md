@@ -4,7 +4,7 @@
 Here is a list of items that helped me prepeare for the CKA exam.
 
 #### Course
-This course will recap and also deep dive all the concepts in K8s https://p3.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+This course will recap and also deep dive all the concepts in K8s https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
 
 Though experianced with Kubernetes this course will help brush up. Take advantage of the labs and practise.
 
@@ -12,11 +12,7 @@ Though experianced with Kubernetes this course will help brush up. Take advantag
 - [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - practice these, many similar questions in CKA.
 - [Killer.sh](https://killer.sh/) - try practise test. All questions are rated hard so do not get discouraged. The exam will feel a lot easier and at times make us wonder if there is more to the question.
 
-These discount codes were available when I tested. They might not be valid anymore. Google might help find recent discount codes.
-```
-DEVOPS15 - LinuxAcademy discount code 20%
-walidshaari - killer.sh discount code 20%
-```
+Google might help find recent discount codes for above sites.
 
 #### Bookmarks
 Kept book marks bar turned on in Chrome. Find my book marks [here](./bookmarks.html).
